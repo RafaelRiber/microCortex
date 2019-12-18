@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/RafaelRiber/microCortex/blob/master/images/render1.png?raw=true">
+<img src="https://github.com/RafaelRiber/microCortex/blob/master/images/render2.png?raw=true">
 </p>
