@@ -4,3 +4,5 @@ fp-lib-table
 fp-info-cache
 *.kicad_pcb-bak
 fp-info-cache
+*.sch-bak
+*.kicad_pcb-bak
